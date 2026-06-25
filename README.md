@@ -1,5 +1,4 @@
-#Mohammadfarhan Bahrami--STD id 401105729
-# Midterm-Q1
+# StackCalc-HDL: A Stack-Based Arithmetic Expression Evaluator in Verilog
 
 ## Table of Contents
 
